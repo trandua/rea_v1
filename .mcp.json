@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rea": {
+      "command": "npx",
+      "args": ["-y", "--prefix", "${TMPDIR:-/tmp}", "rea-agents@6.7.0", "mcp"]
+    }
+  }
+}
